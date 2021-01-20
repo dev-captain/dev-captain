@@ -1,5 +1,7 @@
 <h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hi, Nice to meet you.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h3 align="center">
   I am a Senior Full Stack Developer.
@@ -67,24 +69,35 @@
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
 </div> 
+<h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=brilliantseniordev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="David's Github Stats">
+  <img src="https://github-profile-trophy.vercel.app/?username=brilliantseniordev&column=7&theme=onedark"/>
+</p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=brilliantseniordev&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+</p>
 
-<p align="center"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=brilliantseniordev&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;6+%2B%20years%20of%20working%20experience&width=380&height=45">
+  </a>
+</p>
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
 </div> 
+  <h2 align="center">
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+      How to reach me
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+  </h2>
+  <br />
 <p align="center">
   <a href="mailto:luckydeveloper1113@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://join.skype.com/invite/qfQw30C4Exhl" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/s4kTjm4gUW" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://brilliantdev.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </p>
 <h2 align="center"> Thanks for visiting my profile. </h2>

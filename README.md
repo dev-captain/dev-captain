@@ -17,7 +17,7 @@ If you have any idea or are looking for individual developer or designer for you
 </h3>
 <h3>You can contact me here.</h3>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://join.skype.com/invite/qfQw30C4Exhl" target="_blank" title="live:.cid.346a034f78d4e2f7">
     <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/>
   </a>
@@ -31,7 +31,7 @@ If you have any idea or are looking for individual developer or designer for you
     <img src="https://img.shields.io/badge/Discord-7952B3?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
-<br>
+<br> -->
 
 <h3>Here are my skills that I code with.</h3>
 <p>

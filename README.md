@@ -9,7 +9,7 @@
   <img src="https://cdni.iconscout.com/illustration/premium/thumb/computer-6496376-5403606.png" min-width="380px" max-width="450px" width="250px" align="left"> <br>
 </p>
 <h3 style='line-height:5px; margin-left:35px'>
-I'm Kevin Henry and an experienced web designer and developer.<br>
+I'm David and an experienced web designer and developer.<br>
 As a full-stack developer, I have started programming when I was 10 at code school and have worked on IT company since 2017.<br>
 My experience enables me to make business success of clients.<br>
 I will devote all my soul and passion for you and your business success<br>

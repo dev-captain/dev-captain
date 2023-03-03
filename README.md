@@ -3,9 +3,12 @@
   Hi, Nice to meet you.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<h3 align="center">
-  I am a Senior Full Stack Developer.
-</h3>
+<p align="center">
+  <a href="https://github.com/atosinu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20FullStack%20Developer;6%2B%20years%20of%20development%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+<div align="center">
+  <img src="./divider2.png" alt="divider"/>
+</div> 
 <br>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
@@ -69,19 +72,30 @@
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
 </div> 
-<h3>🏆 Github Profile Trophy</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brilliantseniordev&column=7&theme=onedark"/>
-</p>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=brilliantseniordev&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-</p>
+<h2 align="left" id="macropower-tech">Github Status</h2>
+
+<br />
+
+<h2 align="left" id="macropower-tech">Github Metrics</h2>
+
+<br />
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;6+%2B%20years%20of%20working%20experience&width=380&height=45">
-  </a>
+    <img alt="metrics" title="Github Metrics" src="https://github.com/dev-captain/dev-captain/blob/main/github-metrics.svg" width="100%" />
 </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dev-captain&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-captain&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
+</p>
+
+<br />
+
+<!-- > GitHub Activity Graph -->
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/dev-captain/dev-captain"><img alt="atosinu's activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dev-captain&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+
+<br />
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
 </div> 
@@ -100,7 +114,17 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://brilliantdev.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </p>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 <h2 align="center"> Thanks for visiting my profile. </h2>
+
+<p align="right">
+  <a href="https://github.com/atosinu?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dev-captain"/></a>
+  <a href="https://github.com/atosinu?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/dev-captain?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/atosinu">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=dev-captain&style=for-the-badge"/></a>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>

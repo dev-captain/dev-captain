@@ -1,0 +1,18 @@
+ name: gitartwork from a contribution graph
+ on: 
+   push:
+   schedule:
+     - cron: '* */24 * * *'
+ jobs:
+   build:
+     name: Make gitartwork SVG
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v3
+       - uses: dev-captain/gitartwork@v1.01
+         with:
+            # Use this username's contribution graph  
+            user_name: dev-captain
+            # Text on contribution graph 
+            text: Captain
+       - uses: dev-captain/push-action@v1

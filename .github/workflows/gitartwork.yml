@@ -14,5 +14,5 @@
             # Use this username's contribution graph  
             user_name: atosinu
             # Text on contribution graph 
-            text: ATOSINU
+            text: CAPTAIN
        - uses: atosinu/push-action@v1

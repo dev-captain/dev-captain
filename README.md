@@ -9,7 +9,7 @@
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
 </div> 
-<br>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div> 
@@ -72,9 +72,7 @@
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
 </div> 
-<h2 align="left" id="macropower-tech">Github Status</h2>
 
-<br />
 
 <h2 align="left" id="macropower-tech">Github Metrics</h2>
 
@@ -83,6 +81,9 @@
 <p align="center">
     <img alt="metrics" title="Github Metrics" src="https://github.com/dev-captain/dev-captain/blob/main/github-metrics.svg" width="100%" />
 </p>
+<h2 align="left" id="macropower-tech">Github Status</h2>
+
+<br />
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dev-captain&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-captain&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
@@ -94,7 +95,7 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/dev-captain/dev-captain"><img alt="atosinu's activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dev-captain&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 <br />
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
@@ -114,7 +115,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://brilliantdev.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
 </p>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 <h2 align="center"> Thanks for visiting my profile. </h2>
 
 <p align="right">

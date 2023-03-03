@@ -2,10 +2,10 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: # execute every 12 hours
-    - cron: "* * * * *"
+  schedule: [{cron: "* * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: dev-captain
+          user: atosinu
           template: classic
           base: ""
           config_display: large
